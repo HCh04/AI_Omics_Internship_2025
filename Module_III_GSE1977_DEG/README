@@ -1,0 +1,13 @@
+# Module III — GSE1977 Differential Expression Analysis
+
+Dataset: GSE1977 (Portrait of transcriptional responses to ultraviolet and ionizing radiation in human cells)
+
+Files:
+- scripts/Module_III_GSE1977_DEG.R: R code to reproduce the analysis
+- raw_data/GSE1977_series_matrix.txt: GEO series matrix (small)
+- results/DEGs_Results.csv, Upregulated_DEGs.csv, Downregulated_DEGs.csv
+- plots/volcano_plot.png, heatmap_top25_DEGs.png
+
+Notes:
+- Raw microarray CEL files not included (large). Raw data available from GEO accession GSE1977.
+- To reproduce: open R, install packages listed in script, run the script `scripts/Module_III_GSE1977_DEG.R`.
