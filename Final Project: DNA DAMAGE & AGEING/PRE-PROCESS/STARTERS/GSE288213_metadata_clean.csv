@@ -1,0 +1,31 @@
+"sample","genotype","age","tissue","BioSample","Experiment","LibraryLayout","Organism","age_days"
+"SRR32151315","Csa -/-","24 months","Brain","SAMN46436980","SRX27497030","SINGLE","Mus musculus",720
+"SRR32151325","Csa -/-","45 days","Brain","SAMN46436990","SRX27497020","SINGLE","Mus musculus",45
+"SRR32151326","Csa -/-","45 days","Brain","SAMN46436991","SRX27497019","SINGLE","Mus musculus",45
+"SRR32151327","Csa -/-","45 days","Brain","SAMN46436992","SRX27497018","SINGLE","Mus musculus",45
+"SRR32151328","Csa -/-","45 days","Brain","SAMN46436993","SRX27497017","SINGLE","Mus musculus",45
+"SRR32151329","WT","24 months","Brain","SAMN46436995","SRX27497015","SINGLE","Mus musculus",720
+"SRR32151330","WT","24 months","Brain","SAMN46436996","SRX27497014","SINGLE","Mus musculus",720
+"SRR32151331","WT","24 months","Brain","SAMN46436997","SRX27497013","SINGLE","Mus musculus",720
+"SRR32151335","WT","12 months","Brain","SAMN46437000","SRX27497010","SINGLE","Mus musculus",360
+"SRR32151336","WT","12 months","Brain","SAMN46437001","SRX27497009","SINGLE","Mus musculus",360
+"SRR32151337","WT","12 months","Brain","SAMN46437003","SRX27497007","SINGLE","Mus musculus",360
+"SRR32151338","WT","12 months","Brain","SAMN46437004","SRX27497006","SINGLE","Mus musculus",360
+"SRR32151339","WT","45 days","Brain","SAMN46437005","SRX27497005","SINGLE","Mus musculus",45
+"SRR32151343","WT","45 days","Brain","SAMN46437008","SRX27497002","SINGLE","Mus musculus",45
+"SRR32151316","Csa -/-","24 months","Brain","SAMN46436981","SRX27497029","SINGLE","Mus musculus",720
+"SRR32151317","Csa -/-","24 months","Brain","SAMN46436982","SRX27497028","SINGLE","Mus musculus",720
+"SRR32151318","Csa -/-","24 months","Brain","SAMN46436983","SRX27497027","SINGLE","Mus musculus",720
+"SRR32151319","Csa -/-","24 months","Brain","SAMN46436984","SRX27497026","SINGLE","Mus musculus",720
+"SRR32151320","Csa -/-","12 months","Brain","SAMN46436985","SRX27497025","SINGLE","Mus musculus",360
+"SRR32151321","Csa -/-","12 months","Brain","SAMN46436987","SRX27497023","SINGLE","Mus musculus",360
+"SRR32151322","Csa -/-","12 months","Brain","SAMN46436988","SRX27497022","SINGLE","Mus musculus",360
+"SRR32151323","Csa -/-","12 months","Brain","SAMN46436989","SRX27497021","SINGLE","Mus musculus",360
+"SRR32151324","Csa -/-","12 months","Brain","SAMN46436986","SRX27497024","SINGLE","Mus musculus",360
+"SRR32151332","Csa -/-","45 days","Brain","SAMN46436994","SRX27497016","SINGLE","Mus musculus",45
+"SRR32151333","WT","24 months","Brain","SAMN46436998","SRX27497012","SINGLE","Mus musculus",720
+"SRR32151334","WT","24 months","Brain","SAMN46436999","SRX27497011","SINGLE","Mus musculus",720
+"SRR32151340","WT","12 months","Brain","SAMN46437002","SRX27497008","SINGLE","Mus musculus",360
+"SRR32151341","WT","45 days","Brain","SAMN46437006","SRX27497004","SINGLE","Mus musculus",45
+"SRR32151342","WT","45 days","Brain","SAMN46437007","SRX27497003","SINGLE","Mus musculus",45
+"SRR32151344","WT","45 days","Brain","SAMN46437009","SRX27497001","SINGLE","Mus musculus",45
